@@ -10,4 +10,6 @@ There is two datasets used in this project:
 1. appdata10: Hold the customers' behaviours and their interactions with the company's mobile app.
 2. top_screens: The most used app screens by customers.
 
+# Files: 
+1. function.py: This is python text file I defined some functions that save me time and efforts.
 
