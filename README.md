@@ -10,7 +10,7 @@ There are two datasets used in this project:
 2. top_screens: The most used app screens by customers.
 
 
-## Files: 
+## Files
 1. functions.py: This is python text file contains some defined functions(built by me) to save me time and efforts.
 
 
