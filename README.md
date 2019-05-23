@@ -13,3 +13,19 @@ There is two datasets used in this project:
 # Files: 
 1. functions.py: This is python text file I defined some functions that save me time and efforts.
 
+# Benchmark Model
+In this project I have selected some classification models to apply some techniques to filter them, these models are:
+1. DecisionTreeClassifier 
+2. RandomForestClassifier
+3. LogisticRegression
+4. GaussianNB
+
+# Evaluation Metrics
+In this project I have selected some evaluation metrics to help me best evaluate the models, these metrics are:
+1. Learning curve.
+2. accuracy_score.
+3. f1_score.
+4. Confusion Matrix (self-built)
+
+# Project Design
+
