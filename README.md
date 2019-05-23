@@ -1,6 +1,6 @@
 # Directing-customers-to-subscription-based-on-app-behaviour-analysis
 
-# Problem Description
+## Problem Description
 Many companies have a mobile app presence Often these companies have premium features. In this project, we need to analyze the behaviour of the customers by analyzing their interactions with the mobile app in order to predict whether the customer will enrol or not for the premium features.
 
 
